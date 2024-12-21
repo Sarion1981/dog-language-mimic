@@ -20,7 +20,7 @@ DE:<br>
 - Übersetzen soweit möglich damit es Menschen verstehen<p>
 
 EN:<br>
-- detect digs mimic and behavior<br>
+- detect dogs mimic and behavior<br>
 - recording those behaviors<br>
 - analyze these behaviors<br>
 - translate the meaning so people can understand it better<p>
